@@ -2,17 +2,18 @@ label {
     font-weight: bold;
     font-size: 16px;
     color: #fff;
-    padding-left: 13px;
+    padding-left: 10px;
     line-height: 1.5;
     letter-spacing: 1px;
-    font-family: 'Courier New', Courier, monospace;
+    font-family: Arial, Helvetica, sans-serif;
 }
 body {
     background-color: #202124;
 }
 
 input{
-    top: 70%;
+    top: 50%;
+    width: 210;
     border-radius: 15px;
     border: 2px solid #3c4043;
     font-size: 18px;
